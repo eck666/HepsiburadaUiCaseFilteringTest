@@ -1,0 +1,115 @@
+06-05-2022 13:18:45.684 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\.gauge\screenshots
+06-05-2022 13:18:45.695 [Gauge] [DEBUG] Plugin html-report is already installed.
+06-05-2022 13:18:45.720 [Gauge] [DEBUG] Plugin java is already installed.
+06-05-2022 13:18:45.721 [Gauge] [DEBUG] Parsing started.
+06-05-2022 13:18:45.721 [Gauge] [DEBUG] Started concepts parsing.
+06-05-2022 13:18:45.732 [Gauge] [DEBUG] 0 concepts parsing completed.
+06-05-2022 13:18:45.732 [Gauge] [DEBUG] Started specifications parsing.
+06-05-2022 13:18:45.734 [Gauge] [DEBUG] 1 specifications parsing completed.
+06-05-2022 13:18:45.735 [Gauge] [DEBUG] Parsing completed.
+06-05-2022 13:18:46.052 [Gauge] [DEBUG] Checking updates...
+06-05-2022 13:18:46.059 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+06-05-2022 13:18:46.409 [java] [DEBUG] ***** Printing Properties/Env Values *****
+06-05-2022 13:18:46.409 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Gauge\bin;C:\Program Files\Java\jdk-18.0.1\bin;C:\Program Files\Apache\maven\apache-maven-3.8.5\bin;C:\Program Files\Git\cmd;C:\Users\ECK\AppData\Local\Microsoft\WindowsApps;C:\Users\ECK\AppData\Local\GitHubDesktop\bin;C:\Users\ECK\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+06-05-2022 13:18:46.409 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-18.0.1
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_project_root: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_parallel_streams_count: 4
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_reports_dir: reports
+06-05-2022 13:18:46.409 [java] [DEBUG] overwrite_reports: true
+06-05-2022 13:18:46.409 [java] [DEBUG] logs_directory: logs
+06-05-2022 13:18:46.409 [java] [DEBUG] enable_multithreading: false
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_specs_dir: specs
+06-05-2022 13:18:46.409 [java] [DEBUG] csv_delimiter: ,
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_java_home: 
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_custom_build_path: 
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_additional_libs: libs/*
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_jvm_args: 
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_custom_compile_dir: 
+06-05-2022 13:18:46.409 [java] [DEBUG] gauge_clear_state_level: scenario
+06-05-2022 13:18:46.409 [java] [DEBUG] ***** END *****
+06-05-2022 13:18:46.458 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+06-05-2022 13:18:46.549 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+06-05-2022 13:18:46.667 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+06-05-2022 13:18:46.806 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+06-05-2022 13:18:51.201 [java] [ERROR] Installed version of gauge-java (0.8.1) does not match with dependency gauge-java (0.7.13) specified in pom.xml file
+06-05-2022 13:18:51.202 [java] [DEBUG] classpath set to C:\Users\ECK\.jdks\openjdk-18.0.1!\java.base;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.compiler;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.datatransfer;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.desktop;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.instrument;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.logging;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.management;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.management.rmi;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.naming;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.net.http;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.prefs;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.rmi;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.scripting;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.se;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.security.jgss;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.security.sasl;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.smartcardio;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.sql;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.sql.rowset;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.transaction.xa;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.xml;C:\Users\ECK\.jdks\openjdk-18.0.1!\java.xml.crypto;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.accessibility;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.attach;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.charsets;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.compiler;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.crypto.cryptoki;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.crypto.ec;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.crypto.mscapi;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.dynalink;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.editpad;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.hotspot.agent;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.httpserver;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.incubator.foreign;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.incubator.vector;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.ed;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.jvmstat;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.le;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.opt;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.vm.ci;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.vm.compiler;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.internal.vm.compiler.management;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jartool;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.javadoc;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jcmd;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jconsole;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jdeps;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jdi;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jdwp.agent;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jfr;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jlink;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jpackage;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jshell;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jsobject;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.jstatd;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.localedata;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.management;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.management.agent;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.management.jfr;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.naming.dns;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.naming.rmi;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.net;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.nio.mapmode;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.random;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.sctp;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.security.auth;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.security.jgss;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.unsupported;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.unsupported.desktop;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.xml.dom;C:\Users\ECK\.jdks\openjdk-18.0.1!\jdk.zipfs;C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\target\test-classes;C:\Users\ECK\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.13\gauge-java-0.7.13.jar;C:\Users\ECK\.m2\repository\com\github\javaparser\javaparser-core\3.16.2\javaparser-core-3.16.2.jar;C:\Users\ECK\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\ECK\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\ECK\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\ECK\.m2\repository\com\google\protobuf\protobuf-java\3.13.0\protobuf-java-3.13.0.jar;C:\Users\ECK\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\ECK\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\ECK\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\ECK\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\ECK\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\ECK\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\ECK\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-netty-shaded\1.33.0\grpc-netty-shaded-1.33.0.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-core\1.33.0\grpc-core-1.33.0.jar;C:\Users\ECK\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\ECK\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-protobuf\1.33.0\grpc-protobuf-1.33.0.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-api\1.33.0\grpc-api-1.33.0.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-context\1.33.0\grpc-context-1.33.0.jar;C:\Users\ECK\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-protobuf-lite\1.33.0\grpc-protobuf-lite-1.33.0.jar;C:\Users\ECK\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\ECK\.m2\repository\io\grpc\grpc-stub\1.33.0\grpc-stub-1.33.0.jar;C:\Users\ECK\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\ECK\.m2\repository\org\assertj\assertj-core\3.10.0\assertj-core-3.10.0.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\ECK\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\ECK\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\ECK\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\ECK\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\ECK\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\ECK\.m2\repository\io\github\bonigarcia\webdrivermanager\4.2.0\webdrivermanager-4.2.0.jar;C:\Users\ECK\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\ECK\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\ECK\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\ECK\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\ECK\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\ECK\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\ECK\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\ECK\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\ECK\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\ECK\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\ECK\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\ECK\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\ECK\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\ECK\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\ECK\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+06-05-2022 13:18:51.289 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-18.0.1\bin\java.exe
+06-05-2022 13:18:51.289 [java] [DEBUG] running - C:\Program Files\Java\jdk-18.0.1\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+06-05-2022 13:18:51.289 [java] [DEBUG] stdout/stderr is logged to logs\18928-java.exe.out
+06-05-2022 13:18:51.482 [java] [DEBUG] multithreading is set to false
+06-05-2022 13:18:52.075 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+06-05-2022 13:18:52.205 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+06-05-2022 13:18:52.205 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+06-05-2022 13:18:52.205 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+06-05-2022 13:18:53.009 [java] [DEBUG] gauge-java took 1513milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+06-05-2022 13:18:53.009 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1513
+06-05-2022 13:18:53.009 [java] [DEBUG] starting gRPC server...
+06-05-2022 13:18:53.332 [java] [DEBUG] started gRPC server on port 60121
+06-05-2022 13:18:53.338 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60121
+06-05-2022 13:18:53.584 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60121
+06-05-2022 13:18:53.586 [Gauge] [DEBUG] Validation started.
+06-05-2022 13:18:54.200 [java] [DEBUG] Scanning packages for steps
+06-05-2022 13:18:54.214 [java] [DEBUG] Comparing 'Tests.ProductTest.checkProduct' and 'Tests.ProductTest.checkProduct'
+06-05-2022 13:18:54.214 [java] [DEBUG] Found Kullanï¿½cï¿½ ï¿½rï¿½nï¿½n geldiï¿½ini kontrol eder. in current project scope.
+06-05-2022 13:18:54.214 [java] [DEBUG] Comparing 'Tests.ProductTest.clickBrandFilter' and 'Tests.ProductTest.clickBrandFilter'
+06-05-2022 13:18:54.214 [java] [DEBUG] Found Kullanï¿½cï¿½ marka olarak {}'i seï¿½er. in current project scope.
+06-05-2022 13:18:54.214 [java] [DEBUG] Comparing 'Tests.HomeTest.click3DPrinter' and 'Tests.HomeTest.click3DPrinter'
+06-05-2022 13:18:54.214 [java] [DEBUG] Found Kullanï¿½cï¿½ {} sï¿½nï¿½fï¿½na tï¿½klar. in current project scope.
+06-05-2022 13:18:54.215 [java] [DEBUG] Comparing 'Tests.HomeTest.hoverPrinter' and 'Tests.HomeTest.hoverPrinter'
+06-05-2022 13:18:54.215 [java] [DEBUG] Found Kullanï¿½cï¿½ elektronik bï¿½lï¿½mï¿½nden {} bï¿½lï¿½mï¿½ne gelir. in current project scope.
+06-05-2022 13:18:54.215 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+06-05-2022 13:18:54.215 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+06-05-2022 13:18:54.215 [java] [DEBUG] Comparing 'Tests.ProductTest.clickRating' and 'Tests.ProductTest.clickRating'
+06-05-2022 13:18:54.215 [java] [DEBUG] Found Kullanï¿½cï¿½ Deï¿½erlendirme puanï¿½nï¿½ dï¿½rt ve ï¿½zeriyi seï¿½er. in current project scope.
+06-05-2022 13:18:54.215 [java] [DEBUG] Comparing 'Tests.ProductTest.selectRandomPruduct' and 'Tests.ProductTest.selectRandomPruduct'
+06-05-2022 13:18:54.215 [java] [DEBUG] Found Kullanï¿½cï¿½ rastgele bir ï¿½rï¿½n seï¿½er. in current project scope.
+06-05-2022 13:18:54.215 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+06-05-2022 13:18:54.215 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+06-05-2022 13:18:54.217 [java] [DEBUG] Comparing 'Tests.HomeTest.userVisitSite' and 'Tests.HomeTest.userVisitSite'
+06-05-2022 13:18:54.217 [java] [DEBUG] Found Kullanï¿½cï¿½ {} sitesini ziyaret eder in current project scope.
+06-05-2022 13:18:54.217 [java] [DEBUG] Comparing 'Tests.HomeTest.clickElectronic' and 'Tests.HomeTest.clickElectronic'
+06-05-2022 13:18:54.217 [java] [DEBUG] Found Kullanï¿½cï¿½ gezinti ï¿½ubuï¿½unda {} bï¿½lï¿½mï¿½ne gelir. in current project scope.
+06-05-2022 13:18:54.217 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+06-05-2022 13:18:54.217 [java] [DEBUG] Found Open the Gauge homepage in current project scope.
+06-05-2022 13:18:54.217 [java] [DEBUG] Scanning packages for hooks
+06-05-2022 13:18:54.226 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ {} sitesini ziyaret eder : public void userVisitSite(String key)
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ gezinti ï¿½ubuï¿½unda {} bï¿½lï¿½mï¿½ne gelir. : public void clickElectronic(String key)
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ elektronik bï¿½lï¿½mï¿½nden {} bï¿½lï¿½mï¿½ne gelir. : public void hoverPrinter(String key)
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ rastgele bir ï¿½rï¿½n seï¿½er. : public void selectRandomPruduct()
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ ï¿½rï¿½nï¿½n geldiï¿½ini kontrol eder. : public void checkProduct()
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ {} sï¿½nï¿½fï¿½na tï¿½klar. : public void click3DPrinter(String key)
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ Deï¿½erlendirme puanï¿½nï¿½ dï¿½rt ve ï¿½zeriyi seï¿½er. : public void clickRating()
+06-05-2022 13:18:54.226 [java] [DEBUG] 	Kullanï¿½cï¿½ marka olarak {}'i seï¿½er. : public void clickBrandFilter(String key)
+06-05-2022 13:18:55.673 [Gauge] [DEBUG] Validation completed.
+06-05-2022 13:18:55.676 [Gauge] [DEBUG] Run started
+06-05-2022 13:18:55.677 [Gauge] [DEBUG] Starting Html Report plugin
+06-05-2022 13:18:56.354 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60124
+06-05-2022 13:18:56.355 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60124
+06-05-2022 13:18:56.356 [Gauge] [DEBUG] Initialising suite data store.
+06-05-2022 13:18:58.071 [java] [ERROR] Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 34405
+06-05-2022 13:18:58.071 [java] [ERROR] Only local connections are allowed.
+06-05-2022 13:18:58.071 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+06-05-2022 13:18:58.078 [java] [ERROR] ChromeDriver was started successfully.
+06-05-2022 13:18:59.562 [java] [ERROR] May 06, 2022 1:18:59 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+06-05-2022 13:18:59.562 [java] [ERROR] INFO: Detected dialect: W3C
+06-05-2022 13:18:59.746 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ {} sitesini ziyaret eder' using 'class Tests.HomeTest.userVisitSite
+06-05-2022 13:19:04.104 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ gezinti ï¿½ubuï¿½unda {} bï¿½lï¿½mï¿½ne gelir.' using 'class Tests.HomeTest.clickElectronic
+06-05-2022 13:19:05.132 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ elektronik bï¿½lï¿½mï¿½nden {} bï¿½lï¿½mï¿½ne gelir.' using 'class Tests.HomeTest.hoverPrinter
+06-05-2022 13:19:06.209 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ {} sï¿½nï¿½fï¿½na tï¿½klar.' using 'class Tests.HomeTest.click3DPrinter
+06-05-2022 13:19:09.186 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ marka olarak {}'i seï¿½er.' using 'class Tests.ProductTest.clickBrandFilter
+06-05-2022 13:19:14.102 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ Deï¿½erlendirme puanï¿½nï¿½ dï¿½rt ve ï¿½zeriyi seï¿½er.' using 'class Tests.ProductTest.clickRating
+06-05-2022 13:19:18.476 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ rastgele bir ï¿½rï¿½n seï¿½er.' using 'class Tests.ProductTest.selectRandomPruduct
+06-05-2022 13:19:22.773 [java] [DEBUG] Executing 'Kullanï¿½cï¿½ ï¿½rï¿½nï¿½n geldiï¿½ini kontrol eder.' using 'class Tests.ProductTest.checkProduct
+06-05-2022 13:19:25.518 [html-report] [DEBUG] Transformed SuiteResult to report structure
+06-05-2022 13:19:26.536 [html-report] [INFO] Successfully generated html-report to => C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\reports\html-report\index.html
+06-05-2022 13:19:26.536 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\ECK\AppData\Roaming\gauge\plugins\html-report\4.1.4\themes\default
+06-05-2022 13:19:26.536 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+06-05-2022 13:19:27.199 [Gauge] [DEBUG] Runner with PID:18928 has exited
+06-05-2022 13:19:27.199 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+06-05-2022 13:19:27.199 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+06-05-2022 13:19:27.199 [Gauge] [INFO] 
+Total time taken: 29.836s

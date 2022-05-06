@@ -1,0 +1,15 @@
+06-05-2022 13:03:21.231 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-05-2022 13:03:21.244 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-05-2022 13:03:21.244 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\specs\example.spec
+06-05-2022 13:03:21.244 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-05-2022 13:03:21.244 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60211
+06-05-2022 13:03:21.247 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\specs
+06-05-2022 13:03:21.247 [Gauge] [DEBUG] Found 1 files
+06-05-2022 13:03:26.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+06-05-2022 13:03:26.354 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+06-05-2022 13:03:26.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+06-05-2022 13:03:26.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+06-05-2022 13:03:26.358 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+06-05-2022 13:03:26.358 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+06-05-2022 13:04:08.038 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\specs\example.spec
+06-05-2022 13:04:08.118 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseFilteringTest\specs\example.spec
